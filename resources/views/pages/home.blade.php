@@ -4,10 +4,13 @@
 
 <head>
   <title> Eleazar Tuazon</title>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 
   <style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&display=swap');
 
 * {
   box-sizing: border-box;
@@ -287,6 +290,7 @@ a {
   letter-spacing: 1px;
   padding-left: 5%;
   padding-right: 5%;
+   margin-top: 100px;
 }
   </style>
 
